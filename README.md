@@ -8,13 +8,12 @@
 <ul>
   <li>Kelompok: {11}</li>
   <li>Proyek: {Manajemen Gudang}</li>
-  <li>Anggota:<Rizki Fauzi (Ketua)/li>
-              <Nisa Silva Triana/li>
-              <Ilmi Restu Firdaus/li>
+  <li>Anggota:</li>
+             
   <ul>
-    <li>Ketua: <a href="">Ketua</a></li>
-    <li>Anggota 1: <a href="">Anggota 1</a></li>
-    <li>Anggota 2: <a href="">Anggota 2</a></li>
+    <li>Ketua: <a href="Rizki Fauzi (Ketua)">Ketua</a></li>
+    <li>Anggota 1: <a href="Nisa Silva Triana">Anggota 1</a></li>
+    <li>Anggota 2: <a href="Ilmi Restu Firdaus">Anggota 2</a></li>
   </ul>
 </ul>
 
