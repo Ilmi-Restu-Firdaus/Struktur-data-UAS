@@ -18,7 +18,7 @@
 </ul>
 
 ## Judul Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Aplikasi Manajemen gudang untuk toko Glosir</p>
 
 ## Penjelasan Proyek
 <p>Lorem ipsum sir dolor amet.</p>
