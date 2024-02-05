@@ -11,9 +11,9 @@
   <li>Anggota:</li>
              
   <ul>
-    <li>Ketua: <a href="Rizki Fauzi (Ketua)">Ketua</a></li>
-    <li>Anggota 1: <a href="Nisa Silva Triana">Anggota 1</a></li>
-    <li>Anggota 2: <a href="Ilmi Restu Firdaus">Anggota 2</a></li>
+    <li>Ketua: <a href="">Rizki Fauzi (Ketua)</a></li>
+    <li>Anggota 1: <a href="">Anggota 1: Nisa Silva Triana</a></li>
+    <li>Anggota 2: <a href="">Anggota 2: Ilmi Restu Firdaus</a></li>
   </ul>
 </ul>
 
