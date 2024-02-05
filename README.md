@@ -11,7 +11,7 @@
   <li>Anggota:</li>
              
   <ul>
-    <li>Ketua: <a href="">Rizki Fauzi</a></li>
+    <li>Ketua    : <a href="">Rizki Fauzi</a></li>
     <li>Anggota 1: <a href="">Nisa Silva Triana</a></li>
     <li>Anggota 2: <a href="">Ilmi Restu Firdaus</a></li>
   </ul>
