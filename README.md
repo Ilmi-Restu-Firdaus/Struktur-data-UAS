@@ -31,6 +31,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">[Github](https://github.com/Ilmi-Restu-Firdaus/Struktur-data-UAS/blob/main/SD.java)https://github.com/Ilmi-Restu-Firdaus/Struktur-data-UAS/blob/main/SD.java</a></li>
+  <li>Github: <a href="https://github.com/Ilmi-Restu-Firdaus/Struktur-data-UAS/blob/main/SD.java">[Github](</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
