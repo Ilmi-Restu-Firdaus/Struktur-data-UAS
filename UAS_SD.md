@@ -27,7 +27,9 @@
 <p>Lorem ipsum sir dolor amet.</p>
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Menjelaskan Kodingan Pembelian dan stok barang = Nisa Silva Triana, 
+  Menjelaskakn kodingan Penjualan dan riwayat barang = Rizki Fauzi, 
+  Membuat kodingan dan menjelaskan output kodingan = Ilmi Restu Firdaus</p>
 
 ## Demo Proyek
 <ul>
