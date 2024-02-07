@@ -39,6 +39,6 @@ di menu utama terdapat 4 fitur utama di menu ke 1 ada penjualan dimana kita haru
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/Ilmi-Restu-Firdaus/Struktur-data-UAS/blob/main/SD.java">Github</a></li>
+  <li>Github: <a href="https://github.com/Ilmi-Restu-Firdaus/Struktur-data-UAS/blob/main/KODIGAN_UAS_SD.java">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
