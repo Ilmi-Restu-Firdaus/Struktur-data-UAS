@@ -27,7 +27,7 @@ di menu utama terdapat 4 fitur utama di menu ke 1 ada penjualan dimana kita haru
   
 ## Komponen Proyek 
 <p>Linkedlist (menyimpan data dari record barang)</p>
-<p>record (menyimpan atribut Nama,jenis,jumlah,harga barang)</p>
+<p>record (menyimpan atribut String,Int dari Nama,jenis,jumlah,harga barang)</p>
 <p>arralist (data dari pembelian dan penjualan di simpan ke arraylistmdi tampilkan ke riwayat barang)</p>
 <p>searcing (cari barang)</p>
 <p>sorting (urutkan barang)</p>
