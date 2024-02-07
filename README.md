@@ -13,7 +13,7 @@
   <ul>
     <li>Ketua    : Rizki Fauzi</a></li>
     <li>Anggota 1: Nisa Silva Triana</a></li>
-    <li>Anggota 2: <a href="https://github.com/Ilmi-Restu-Firdaus"></Ilmi Restu Firdausa></li>
+    <li>Anggota 2: <a href="https://github.com/Ilmi-Restu-Firdaus">Ilmi Restu Firdaus</a></li>
   </ul>
 </ul>
 
