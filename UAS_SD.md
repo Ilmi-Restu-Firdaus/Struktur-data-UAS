@@ -33,7 +33,7 @@ di menu utama terdapat 4 fitur utama di menu ke 1 ada penjualan dimana kita haru
 <p>sorting (urutkan barang)</p>
 
 ## Pembagian Tim
-<p>Menjelaskan Kodingan Pembelian dan stok barang    = Nisa Silva Triana<p> 
+<p>Mengedit video upload youtube, Menjelaskan Kodingan Pembelian dan stok barang    = Nisa Silva Triana<p> 
 <p>Menjelaskan kodingan Penjualan dan riwayat barang = Rizki Fauzi<p>
 <p>Membuat kodingan dan menjelaskan output kodingan  = <a href="https://github.com/Ilmi-Restu-Firdaus">Ilmi Restu Firdaus</a></li>
 
