@@ -6,7 +6,7 @@
 
 ## Kelompok
 <ul>
-  <li>Kelompok: {11}</li>
+  <li>Kelompok: {8}</li>
   <li>Proyek: {Manajemen Gudang}</li>
   <li>Anggota:</li>
              
