@@ -93,7 +93,7 @@ public class SD {
              for (tambah item : tambahbarang) {
                  if (item.Nama().equalsIgnoreCase(nam)&& item.Jenis().equalsIgnoreCase(jen)) {
                      found = true;
-                 System.out.println("Jenis: " + item.Jenis()  + ", Nama: " + item.Nama() + ", Jumlah: " + item.Jumlah() + ", harga: " + item.Harga()  +", Total Harga: "+ item.total());
+                 System.out.println("Jenis: " + item.Jenis()  + ", Nama: " + item.Nama() + ", Jumlah: " + item.Jumlah() + ", harga beli: " + item.Harga()  +", Total Harga: "+ item.total());
                     }
                  }
                   if (!found) {
@@ -146,10 +146,10 @@ public class SD {
             barangDitemukan = true;
           
         }       
-        }
+        
         if (!barangDitemukan) {
             System.out.println("Barang tidak ditemukan.");
-         }
+        }}
         break;
             case 4: 
         if (riwayatBarang.isEmpty()) {
