@@ -31,6 +31,7 @@ di menu utama terdapat 4 fitur utama di menu ke 1 ada penjualan dimana kita haru
 <p>arralist (data dari pembelian dan penjualan di simpan ke arraylistmdi tampilkan ke riwayat barang)</p>
 <p>searcing (cari barang)</p>
 <p>sorting (urutkan barang)</p>
+<p>Queue (Pre order untuk mengisi ulang stok yang kosong)</p>
 
 ## Pembagian Tim
 <p>Mencari Ide, Mengedit video upload youtube, Menjelaskan Kodingan Pembelian dan stok barang    = Nisa Silva Triana<p> 
